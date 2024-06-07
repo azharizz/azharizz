@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on data engineering projects, focusing on building robust and scalable data pipelines.
+- 🔭 I’m currently working on data engineering jobs, focusing on building robust and scalable data pipelines.
 - 🌱 I’m continuously learning and exploring new technologies in the fields of data engineering, DevOps, and machine learning.
 - 👯 I’m looking to collaborate on exciting data engineering and machine learning projects.
 - 💬 Ask me about anything related to data engineering, cloud solutions, and machine learning.
@@ -28,12 +28,14 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 
 ## 📈 GitHub Stats
 
-![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azharizz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharizz&layout=compact&theme=algolia)
+![Azhar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=azharizz&theme=dark)
+![Azhar's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azharizz&theme=vue)
+
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/azharizz/)
-- [Email](mailto:your.email@example.com) (replace with your email)
 
 ## 🗨️ Let's Collaborate!
 
