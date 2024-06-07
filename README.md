@@ -1,4 +1,4 @@
-# Hi there, I'm Azhar Izzuddin! 👋
+# Hi there, I'm Azhar Izzannada Elbachtiar! 👋
 
 Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 3 years of professional experience. My expertise spans across data engineering, cloud architecture, solution architecture, DevOps, and machine learning.
 
