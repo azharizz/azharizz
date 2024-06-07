@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on data engineering jobs, focusing on building robust and scalable data pipelines.
-- 🌱 I’m continuously learning and exploring new technologies in the fields of data engineering, DevOps, and machine learning.
-- 👯 I’m looking to collaborate on exciting data engineering and machine learning projects.
-- 💬 Ask me about anything related to data engineering, cloud solutions, and machine learning.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/azharizz/)
+- 🚀 Always exploring the latest in data engineering, DevOps, and ML.
+- 🤝 Open to collaboration on innovative data and ML projects.
+- 💬 Let's chat about data, cloud solutions, or any tech trend.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/azharizz/).
 - ⚡ Fun fact: I love solving complex data challenges and optimizing workflows.
 
 ## 🛠️ Certifications
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 - **Google Cloud Certified: Professional Data Engineer**
 - **Google Cloud Certified: Professional Cloud Architect**
 - **AWS Certified Solutions Architect – Associate**
-- **IBM Certified Solution Architect – Cloud**
+- **IBM Certified Data Engineer**
 
 ## 💼 Technical Skills
 
