@@ -26,9 +26,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 - **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins
 - **Machine Learning:** TensorFlow, Scikit-learn, Pandas
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharizz&layout=donut-vertical)](https://github.com/azharizz/github-readme-stats) 
+## 📈 GitHub Stats 
 [![GitHub Streak](https://streak-stats.demolab.com?user=azharizz&theme=sunset-gradient)](https://git.io/streak-stats)
 
 
