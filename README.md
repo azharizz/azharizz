@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharizz&layout=compact&theme=algolia)
-![Azhar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azharizz&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=azharizz&theme=sunset-gradient)](https://git.io/streak-stats)
 
 
 ## 📫 Connect with Me
