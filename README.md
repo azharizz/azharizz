@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 - 💬 Let's chat about data, cloud solutions, or any tech trend.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/azharizz/).
 - ⚡ Fun fact: I love solving complex data challenges and optimizing workflows.
+- Portfolio: https://bit.ly/webportfolio_azhar
 
 ## 🛠️ Certifications
 
@@ -34,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/azharizz/)
+- For Portfolio : https://bit.ly/webportfolio_azhar
 
 ## 🗨️ Let's Collaborate!
 
