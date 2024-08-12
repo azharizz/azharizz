@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 - **Google Cloud Certified: Professional Data Engineer**
 - **Google Cloud Certified: Professional Cloud Architect**
 - **AWS Certified Solutions Architect – Associate**
-- **IBM Certified Data Engineer**
 
 ## 💼 Technical Skills
 
