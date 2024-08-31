@@ -20,15 +20,15 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 
 ## 💼 Technical Skills
 
-- **Programming Languages:** Python, SQL, Java
+- **Programming Languages:** Python, SQL, Java, JavaScript
 - **Data Engineering:** Apache Spark, Apache Kafka, ETL, Data Warehousing
 - **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS), IBM Cloud
 - **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins
-- **Machine Learning:** TensorFlow, Scikit-learn, Pandas
+- **Machine Learning:** TensorFlow, Scikit-learn, Pandas, PyTorch
 
 ## 📈 GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=azharizz&theme=sunset-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](hPandas, /streak-stats.demolab.com?user=azharizz&theme=sunset-gradient)](https://git.io/streak-stats)
 
 
 ## 📫 Connect with Me
