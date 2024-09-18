@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate and certified Data Engineer with 
 
 ## 💼 Technical Skills
 
-- **Programming Languages:** Python, SQL, Java, JavaScript
+- **Programming Languages:** Python, SQL, Java, JavaScript, Go
 - **Data Engineering:** Apache Spark, Apache Kafka, ETL, Data Warehousing
-- **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS), IBM Cloud
+- **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Azure Databrick
 - **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins
 - **Machine Learning:** TensorFlow, Scikit-learn, Pandas, PyTorch
 
